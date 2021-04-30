@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008605095838",
+    "project_id": "ramzan-289ce",
+    "storage_bucket": "ramzan-289ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008605095838:android:7ef051d385a1696e52588f",
+        "android_client_info": {
+          "package_name": "com.ramzan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008605095838-02gp47vfp6rc942rmtcska9c14d0oahs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramzan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1008605095838-6d9brh412crv0ac1o3836sgh5fn7lj93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqaNor9W1J_f2DVk8_pVk7AISSalz6840"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008605095838-6d9brh412crv0ac1o3836sgh5fn7lj93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

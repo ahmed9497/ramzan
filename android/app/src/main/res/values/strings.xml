@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ramzan</string>
+   <string name="facebook_app_id">117465903700023</string>
+<string name="fb_login_protocol_scheme">fb117465903700023</string>
+</resources>
